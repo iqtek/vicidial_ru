@@ -488,7 +488,7 @@ Languages|Переводы||
 Message Groups|Группы сообщений||
 Settings Containers|Контейнер настроек||
 Show Languages|Список переводов||
-Add A New Language|Добавить перевов||
+Add A New Language|Добавить перевод||
 Copy A Languages Entry|Скопировать перевод||
 Import Phrases|Импорт фраз||
 Export Phrases|Экспорт фраз||
@@ -803,7 +803,7 @@ Custom Template|Настроенный формат||
 override template setting|переопределить настройки шаблона||
 View template info|Просмотр шаблона||
 Custom Layout to Use|Шаблон полей||
-Lead Duplicate Check|Проперка дублей||
+Lead Duplicate Check|Проверка дублей||
 Status Duplicate Check|Проверка статуса дублей||
 USA-Canada Check|USA/Canada проверка||
 Lead Time Zone Lookup|Поиск часового пояса||
@@ -1081,3 +1081,44 @@ CALL TIME DELETION CONFIRMATION|ПОДТВЕРЖДЕНИЕ УДАЛЕНИЯ ИН
 Click here to delete call time|Нажмите для удаления интервала времени||
 show all lists|отобразить все списки||
 hide inactive lists|скрыть неактивные списки||
+EXPORT LANGUAGE PHRASES|ЭКСПОРТ ПЕРЕВОДА||
+Export Action|Действие при экспорте||
+Only NOT Translated Phrases|Только БЕЗ перевода||
+Only Translated Phrases|Только с переводом||
+save|сохранить||
+reset|сброс||
+SOUNDBOARD ENTRY ADDED|ЗАПИСЬ SOUNDBOARD ДОБАВЛЕНА||
+Show Soundboard Entries|Показать Soundboard||
+Add A New Soundboard Entry|Добавить новый Soundboard||
+Copy A Soundboard Entry|Скопировать Soundboard||
+Audio Files|Аудио файлы||
+Sample Soundboard View|Предпросмотр Soundboard||
+Add An Audio File|Добавление аудио файла||
+MODIFY A USERS RECORD|ИЗМЕНЕНИЕ ПОЛЬЗОВАТЕЛЯ||
+USER MODIFIED|ПОЛЬЗОВАТЕЛЬ ИЗМЕНЁН||
+template builder|настройка шаблонов||
+Go to Lead Loader|К загрузке лидов||
+Select template to edit/delete|Выберите шаблон для правки/удаления||
+Edit / delete an existing template|Изменить/удалить шаблон||
+Create a new template|Создать новый шаблон||
+Listloader Custom Template Maker|Создание шаблонов загрузки лидов||
+Sample file fitting template|Пример файла в соответствии с шаблоном||
+needed for field assignation|нужен для назначения полей||
+Load From Lead File|Загрузить из файла||
+CAMPAIGN AGENT PAUSE CODE LISTINGS|Список кодов пауз кампании||
+MODIFY PAUSE CODES|Правка кодов паузы||
+Pause Code|Код паузы||
+ADD NEW AGENT PAUSE CODE|Добавить новый код паузы||
+Billable|Оплачиваемый||
+AGENT PAUSE CODES FOR THIS CAMPAIGN|КОДЫ ПАУЗ ОПЕРАТОРОВ ДЛЯ ДАННОЙ КАМПАНИИ||
+TIME LIMIT|Лимит времени||
+MGR APPROVAL|С подтверждением||
+Mgr Approve|С подтверждением||
+SYSTEM SETTINGS MODIFIED|СИСТЕМНЫЕ НАСТРОЙКИ ИЗМЕНЕНЫ||
+Click here to see Admin changes to the system settings|Нажмите для просмотра изменений в системные настройки||
+MUSIC-ON-HOLD(MOH) LISTINGS|СПИСОК КЛАССОВ МУЗЫКИ ПРИ УДЕРЖАНИИ||
+Show MOH Entries|Показать классы MOH||
+Add A New MOH Entry|Добавить новый класс MOH||
+Show Email Accounts|Список Email аккаунтов||
+Add A New Account|Добавить новый аккаунт||
+Copy An Account|Скопировать аккаунт||
